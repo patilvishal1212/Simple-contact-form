@@ -1,4 +1,4 @@
-# Brain-Mind
+# Simple Contact Form
 
 Simple full-stack project with a Python/Flask backend and a React/Vite frontend.
 
